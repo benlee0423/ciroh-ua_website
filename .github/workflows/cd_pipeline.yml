@@ -68,4 +68,4 @@ jobs:
           token: ${{ secrets.SECRET_TO_PUSH_TO_CIROH_GITHUB_IO }}
           branch: main
           folder: build
-          repository-name: CIROH-UA/ciroh-ua.github.io
+          repository-name: benlee0423/ciroh-ua.github.io
